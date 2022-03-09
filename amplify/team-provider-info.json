@@ -1,0 +1,15 @@
+{
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-crastarter-main-102655-authRole",
+      "UnauthRoleArn": "arn:aws:iam::429565325281:role/amplify-crastarter-main-102655-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::429565325281:role/amplify-crastarter-main-102655-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-crastarter-main-102655-deployment",
+      "UnauthRoleName": "amplify-crastarter-main-102655-unauthRole",
+      "StackName": "amplify-crastarter-main-102655",
+      "StackId": "arn:aws:cloudformation:eu-west-2:429565325281:stack/amplify-crastarter-main-102655/71e00b40-9f93-11ec-a57c-022a3e746bcc",
+      "AmplifyAppId": "d1yq0q7ez42lu4"
+    }
+  }
+}
